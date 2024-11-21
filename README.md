@@ -58,7 +58,7 @@ O site possui as seguintes páginas:
 ## **📷 Imagens do Projeto**
 
 ### Página Inicial
-![Barbearia Alura - Página Inicial](screencapture-gustavobuenodemoraes-github-io-html5-css3-alura-index-html-2024-11-21-02_57_07.png)
+![screencapture-gustavobuenodemoraes-github-io-html5-css3-alura-index-html-2024-11-21-02_57_07](https://github.com/user-attachments/assets/7ac659f3-34b5-43aa-a0d0-793611c724c8)
 
 ## **📄 Licença**
 
